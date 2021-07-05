@@ -6,6 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/obrienser/Memorize)](https://github.com/obrienser/Memorize/network)
 
 <br>
+<br>
 <p align="center">
   <img src="/Screenshots/screencast.gif" alt="" width="600" align="middle">
 </p>
