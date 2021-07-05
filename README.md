@@ -1,7 +1,7 @@
 # Memorize Game :video_game:
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
-[![Build Status](https://travis-ci.com/obrienser/Memorize.svg?branch=master)](https://travis-ci.com/obrienser/Memorize)
+[![codecov](https://codecov.io/gh/obrienser/Memorize/branch/main/graph/badge.svg?token=WHVCWDIV6S)](https://codecov.io/gh/obrienser/Memorize)
 
 <br>
 <p align="center">
