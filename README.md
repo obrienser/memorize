@@ -4,7 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/obrienser/Memorize)](https://github.com/obrienser/Memorize/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/obrienser/Memorize)](https://github.com/obrienser/Memorize/network)
 [![GitHub license](https://img.shields.io/github/license/obrienser/Memorize)](https://github.com/obrienser/Memorize/blob/main/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fobrienser%2FMemorize)
 
 <br>
 <p align="center">
