@@ -1,7 +1,7 @@
 # Memorize Game :video_game:
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
-
+[![GitHub license](https://img.shields.io/github/license/obrienser/Memorize)](https://github.com/obrienser/Memorize/blob/main/LICENSE)
 
 <br>
 <p align="center">
