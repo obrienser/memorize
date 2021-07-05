@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/obrienser/Memorize)](https://github.com/obrienser/Memorize/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/obrienser/Memorize)](https://github.com/obrienser/Memorize/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/obrienser/Memorize)](https://github.com/obrienser/Memorize/network)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser)](https://github.com/obrienser)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=obrienser.Memorize)](https://github.com/obrienser)
 
 <br>
 <br>
