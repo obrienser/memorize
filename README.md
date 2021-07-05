@@ -1,6 +1,8 @@
 # Memorize Game :video_game:
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+
 <br>
 <p align="center">
   <img src="/Screenshots/screencast.gif" alt="" width="600" align="middle">
