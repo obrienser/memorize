@@ -125,3 +125,10 @@ Stanford's CS193p course, Developing Applications for iOS, explains the fundamen
 
 ## Install
 Just open project and run :rocket:
+
+<br><br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/obrienser">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="140">
+  </a>
+</p>
